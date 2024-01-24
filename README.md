@@ -1,2 +1,2 @@
 # mypf
-my first
+my first dirctory
