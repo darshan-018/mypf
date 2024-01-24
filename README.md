@@ -1,2 +1,2 @@
 # mypf
-my first dirctory
+my first dirctory in git
